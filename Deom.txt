@@ -1,0 +1,2 @@
+Week 2:
+Work on font: rem,em
